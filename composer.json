@@ -1,0 +1,15 @@
+{
+    "name": "masterpreshy/apidbs-php-sdk",
+    "description": "PHP SDK For APIDataBank API Services",
+    "type": "metapackage, library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Precious Opusunju",
+            "email": "haxorpreshy@gmail.com"
+        }
+    ],
+    "require": {
+        "mashape/unirest-php": "^3.0"
+    }
+}
